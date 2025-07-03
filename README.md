@@ -55,7 +55,7 @@ The schematic and PCB layout were designed using KiCAD and verified with 0 DRC e
 ## 🙌 Created By
 
 **GIRIDHARAN B**
-
+*if you find any mistake or improvement to be done, let me know*
 ---
 
 **License**: MIT (for educational use)
